@@ -18,10 +18,9 @@
 Coming Soon
 
 ### 📧 Contact
-**Email:** your@email.com
+**Email:** "amaankhan.kk743@gmail.com"
 
-**LinkedIn:** https://linkedin.com/in/yourprofile
-
+**LinkedIn:** https://www.linkedin.com/in/aman-508a04422/?skipRedirect=true
 ---
 
 ## 🎥 Services
@@ -36,6 +35,8 @@ Coming Soon
 - Color Correction & Color Grading
 - Audio Cleanup & Sound Design
 - Thumbnail Design
+- <img width="1536" height="1024" alt="ChatGPT Image Jul 22, 2026, 12_06_51 AM" src="https://github.com/user-attachments/assets/9b6a0b90-4bc6-4790-bad8-d04c9c09964e" />
+
 
 ---
 
@@ -46,6 +47,8 @@ Coming Soon
 - Adobe Photoshop
 - ElevenLabs
 - Midjourney
+- <img width="1536" height="1024" alt="ChatGPT Image Jul 22, 2026, 12_09_15 AM" src="https://github.com/user-attachments/assets/90c348da-3f69-4e4c-999b-865e5c72e23e" />
+
 
 ---
 
